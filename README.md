@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi 👋! My name is Mariem Chayrrou, and I'm a first-year Master's student in Computer Science.</h2>
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chayrrou.chayrrou" alt="profile view counter" />
+</p>
 
 ###
 

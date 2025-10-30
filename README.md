@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Mariem Chayrrou, and I'm a first-year Master's student in Computer Science.</h2>
+<h2 align="left">Hi 👋!My name is Mariem Chayrrou, and I’m a second-year Master’s student in Computer Science, specializing in Smart Systems and IoT.</h2>
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chayrrou.chayrrou" alt="profile view counter" />
 </p>
